@@ -1,0 +1,7 @@
+{
+  "name": "recyclanV3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
